@@ -7,6 +7,8 @@ Este projeto contém uma função reutilizável para carregar, padronizar e unif
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+---
+
 ### Funcionalidades
 
 - Leitura de múltiplos arquivos `.csv` e `.xlsx`
